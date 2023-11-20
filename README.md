@@ -4,21 +4,19 @@
 - 🌱 Currently learning B.Sc Computer Science at HIT academy.
 - 🌱I had learned also in ariel university.
 
-  <div align="center">
+ <div align="center">
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liavm1998&show_icons=true&theme=nord&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Masanbat12&show_icons=true&theme=nord&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liavm1998&layout=compact&theme=nord)](https://github.com/liavm1998/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masanbat12&layout=compact&theme=nord)](https://github.com/Masanbat12/github-readme-stats)
 
 </div>
-
-
-
 
 <div align="center">
 
 <h3 align="left">Tools:</h3>
 <p align="center">
+<!-- Tool Icons -->
 <a href="https://www.java.com" target="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/>  </a>
 <a href="https://www.python.org" target="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/>  </a>
 <a href="https://github.com/kivy/kivy" target="kivy"> <img src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png" alt="kivy" width="40" height="40" /> </a>
