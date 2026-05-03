@@ -2,17 +2,21 @@
 - 👋 Hi, I’m Masanbat Mulu
 - 👀 I am interested in code development .
 - 🌱🎓 Currently learning B.Sc Computer Science at HIT academy.
-<br />
 <div align="center">
 
-  <img
-    src="https://streak-stats.demolab.com?user=Masanbat12&theme=nord&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masanbat12&theme=nord_dark" alt="Profile Details" />
+
+  <br /><br />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Masanbat12&theme=nord_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Masanbat12&theme=nord_dark" alt="Most Commit Language" />
+
+  <br /><br />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masanbat12&theme=nord_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Masanbat12&theme=nord_dark&utcOffset=3" alt="Productive Time" />
 
 </div>
-
-<br />
 
 <h3 align="left">Tools & Technologies:</h3>
 
