@@ -3,6 +3,11 @@
 - 👀 I am interested in code development .
 - 🌱🎓 Currently learning B.Sc Computer Science at HIT academy.
 
+## 📫 Contact
+
+- GitHub: [Masanbat12](https://github.com/Masanbat12)
+-  LinkedIn: [https://www.linkedin.com/in/masanbat/)](https://www.linkedin.com/in/masanbat/
+
 I'm a Computer Science student at HIT with a strong interest in software development, problem-solving, and building practical applications.  
 I enjoy working on full-stack projects, mobile apps, automation, computer vision, and systems that solve real-world problems.
 
@@ -82,10 +87,3 @@ A software project focused on managing products, data operations, and structured
 - Improving software architecture and clean code practices
 - Learning full-stack development and AI integration
 - Working with Flutter, Firebase, Python, and backend technologies
-
----
-
-## 📫 Contact
-
-- GitHub: [Masanbat12](https://github.com/Masanbat12)
-- LinkedIn: Add your LinkedIn here
