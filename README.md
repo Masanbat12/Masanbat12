@@ -3,19 +3,11 @@
 - 👀 I am interested in code development .
 - 🌱🎓 Currently learning B.Sc Computer Science at HIT academy.
 <br />
-
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Masanbat12&show_icons=true&theme=nord&hide=prs&cache_seconds=1800" 
-    alt="Masanbat's GitHub Stats" 
-  />
-
-  <br /><br />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masanbat12&layout=compact&theme=nord&cache_seconds=1800" 
-    alt="Most Used Languages" 
+  <img
+    src="https://streak-stats.demolab.com?user=Masanbat12&theme=nord&hide_border=true"
+    alt="GitHub Streak"
   />
 
 </div>
