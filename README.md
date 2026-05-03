@@ -33,6 +33,13 @@ I enjoy working on full-stack projects, mobile apps, automation, computer vision
 
 ## 🚀 Featured Projects
 
+### 👕 Outfit & Color Recommendation System
+A recommendation system that suggests clothing colors and styles based on skin tone analysis and visual matching.
+
+**Technologies:** Python, OpenCV, PIL, Image Processing
+
+---
+
 ### 🧊 Smart Fridge Manager
 A Flutter + Firebase application for managing fridge products, tracking expiration dates, and organizing personal inventory.
 
@@ -44,13 +51,6 @@ A Flutter + Firebase application for managing fridge products, tracking expirati
 A ROS + OpenCV project for lane following, stop-sign detection, and finite-state-machine based robot navigation.
 
 **Technologies:** Python, ROS, OpenCV, Gazebo
-
----
-
-### 👕 Outfit & Color Recommendation System
-A recommendation system that suggests clothing colors and styles based on skin tone analysis and visual matching.
-
-**Technologies:** Python, OpenCV, PIL, Image Processing
 
 ---
 
