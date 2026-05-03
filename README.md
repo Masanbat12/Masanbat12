@@ -1,37 +1,73 @@
 
 - 👋 Hi, I’m Masanbat Mulu
 - 👀 I am interested in code development .
-- 🌱 Currently learning B.Sc Computer Science at HIT academy.
-- 🌱I had learned also in ariel university.
-
- <div align="center">
-  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Masanbat12&show_icons=true&theme=nord&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masanbat12&layout=compact&theme=nord)](https://github.com/Masanbat12/github-readme-stats)
-
-</div>
+- 🌱🎓 Currently learning B.Sc Computer Science at HIT academy.
+<br />
 
 <div align="center">
 
-<h3 align="left">Tools:</h3>
-<p align="center">
-<!-- Tool Icons -->
-<a href="https://www.java.com" target="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/>  </a>
-<a href="https://www.python.org" target="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/>  </a>
-<a href="https://github.com/kivy/kivy" target="kivy"> <img src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png" alt="kivy" width="40" height="40" /> </a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="C"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="C" width="35" height="40"/>  </a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="html"> <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="html" width="40" height="40"/>  </a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="css"> <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="css" width="40" height="40"/>  </a>
-<a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
-<a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
-<a href="https://atom.io/" target="atom"> <img src="https://user-images.githubusercontent.com/66886354/147272833-2de6deae-aa5c-4072-8994-6274f3d92392.png" alt="atom" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/index.html" target="SQLite">
-  <img src="https://camo.githubusercontent.com/644b7c04356f7e17ee98274b9a7d59af01e06bc988e4c311c8259df425d13c18/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39372f53716c6974652d7371756172652d69636f6e2e737667" alt="SQLite" width="40" height="40"/>
-</a>
-<a href="https://www.vmware.com/products/workstation-player.html" target="vmware"> <img src="https://user-images.githubusercontent.com/66886354/146209443-fcd57e28-771d-4325-8cdc-7c95c2efb6fe.png" alt="vmware" width="40" height="40"/> 
-<a href="https://www.virtualbox.org/" target="virtualbox"> <img src="https://user-images.githubusercontent.com/66886354/147595612-5b5a216d-c51c-41bc-a211-efdd88198229.png" alt="virtualbox" width="40" height="40"/> 
-<a href="https://ubuntu.com/" target="ubuntu"> <img src="https://user-images.githubusercontent.com/66886354/146211305-39e0ed43-b4d0-4155-b3fb-17eff634a6e8.png" alt="ubuntu" width="40" height="40"/> 
-<a href="https://www.wireshark.org/" target="wireshark"> <img src="https://user-images.githubusercontent.com/66886354/147272381-c39e5aa2-3fd9-4a4d-ab9d-4c4c224b29ab.png" alt="wireshark" width="40" height="40"/> 
-<a href="https://www.docker.com/" target="docker"> <img src="https://user-images.githubusercontent.com/66886354/147595427-103affab-641e-46ee-9986-ca534677e87d.png" alt="docker" width="40" height="40"/> 
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Masanbat12&show_icons=true&theme=nord&hide=prs&cache_seconds=1800" 
+    alt="Masanbat's GitHub Stats" 
+  />
+
+  <br /><br />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masanbat12&layout=compact&theme=nord&cache_seconds=1800" 
+    alt="Most Used Languages" 
+  />
+
+</div>
+
+<br />
+
+<h3 align="left">Tools & Technologies:</h3>
+
+<div align="center">
+
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+
+  <a href="https://kivy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png" alt="Kivy" width="40" height="40"/>
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+  </a>
+
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+
 </div>
